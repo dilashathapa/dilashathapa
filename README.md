@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Dilasha 👋
 
-<!--
-**dilashathapa/dilashathapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Student passionate about growing in the tech field.
 
-Here are some ideas to get you started:
+🌱 Currently learning Full Stack Development (MERN Stack) and improving my frontend and backend skills through projects and practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Interested in building real-world projects, gaining experience, and growing in the technical field.
+
+## Skills
+Basics of 
+* HTML
+* CSS
+* JavaScript
+* Git & GitHub
+* Frontend & Backend Development
+
+## Currently Working On
+* Coursework Projects
+* Improving MERN Stack Skills
+
+✨ Always learning and improving.
